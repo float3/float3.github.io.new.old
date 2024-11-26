@@ -16,9 +16,10 @@ description = "hello"
 # Misc
 
 - [rss feed](/atom.xml)
+- [rss feed 2](/rss.xml)
 - [pgp](/plaintext/public-key.txt)
-- [source](https://github.com/float3/float3.github.io)
-- [old-site](https://float3.github.io/float3.github.io.old)
+- [source](https://github.com/float3/float3.github.io.old)
+- [old-site](https://float3.github.io/float3.github.io.old.old)
 
 # Contact
 
