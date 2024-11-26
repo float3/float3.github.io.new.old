@@ -2,8 +2,8 @@ author = "hill"
 base_url = "https://hilll.dev"
 build_search_index = true
 compile_sass = true
-feed_filename = "rss.xml"
-generate_feed = true
+feed_filenames = ["atom.xml", "rss.xml"]
+generate_feeds = true
 hard_link_static = true
 minify_html = true
 
